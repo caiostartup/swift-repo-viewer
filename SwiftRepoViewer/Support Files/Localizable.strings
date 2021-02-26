@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  SwiftRepoViewer
+
+  Created by Caio Mansho on 26/02/21.
+  
+*/
+
+issueOpen = "ABERTO";
+issueClosed = "FECHADO";
+issueAll = "TODOS";
+openOnGithub = "Abrir no GitHub";

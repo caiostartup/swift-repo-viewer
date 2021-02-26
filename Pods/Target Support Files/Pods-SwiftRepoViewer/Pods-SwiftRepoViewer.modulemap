@@ -1,0 +1,6 @@
+framework module Pods_SwiftRepoViewer {
+  umbrella header "Pods-SwiftRepoViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
